@@ -90,7 +90,7 @@ sugarMinusBtn.addEventListener("click", function(){
     console.log("the ccminus button")
 
 })
-// Total order**********************************************************
+// Total order********************************************************  
 
 
 
