@@ -1,3 +1,6 @@
+//Please READ!  My apologies for the late commit. I wanted to let you know that i did stop the evauluate with in the correct time limit
+//and was only able to complete the three buttom as well as the bonus part of the accessment.  I want unable to comple the total button.
+
 // HINT: You can delete this console.log after you no longer need it!
 console.log('JavaScript code has loaded!')
 // First, tell us your name
